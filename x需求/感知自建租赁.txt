@@ -1,0 +1,1 @@
+{"app":"movision","data":"1","db":"use ap","event":"updateSystemMode","init":false,"keys":["8e6e90fa-25ac-439c-b316-e91b914f5e58","08523d7e-556b-43e3-9e12-4f07bbd116a3"],"sqlargs":[["1","system.mode"]],"sqls":["update t_sys_cfg set cfg_value=? where cfg_key=?"],"src":"","version":"67"}

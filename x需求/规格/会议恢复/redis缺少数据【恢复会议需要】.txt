@@ -1,0 +1,72 @@
+
+"enckeymanual ":"0",   //码流传输密钥是否手动：1——手动   0——自动
+"allsilence":"1",  //1-初始静音，0-不静音
+"speakeraudio":"0"    //发言人带音频  0-不带音频 1-带音频
+"smartpacketloss":"0"     //0-不使用丢包重传
+                   //1-使用丢包重传
+"onereforming"     //0-不使用归一重整
+                   //1-使用归一重整
+"doublespeed":"0"     //0-不使用双速
+                      //1-使用双速
+"smarterrorelimination":    //0-不使用智能差错消除
+"secmediabitrate":"2048"  //辅助码率
+"autoclose":"0"             //0-不自动结束 1-自动结束
+"doublepercent":"33"     //双流比例
+"videoformat"：// 主视频格式
+[
+    {
+    "mediatype":"0"//视频类型：H261-31,H263-34,H264-106,MP4-97,H265-待定
+    "mediabitrate":"0"    //码率
+    "mediares":"0"       //分辨率
+    "mediaframe":"0"     //帧率
+    "mediah264":"0"      //h264属性 bp-0,  hp-1
+    }
+    …… // 最多4种
+]
+"audioformat"：//音频格式
+[
+    {
+    "audiotype":"0"//音频类型：MP3-96, G722.1.C-98, G719-99, G.711(Alaw)-8,
+          G.711(Ulaw)-0, G.721-2, G.722-9, G.7231-4,
+          G.728-15, G.729-18 ,G.7221-13, OPUS-127
+          MPEG-4 AAC LC-102, MPEG-4 AAC LD-103
+    }
+    …… // 最多4种
+]
+"secvideoformat"：// 双流视频格式
+[
+    {
+    "mediatype":"0"
+    "mediares":"0"       //分辨率
+    "H239":"0"   0-支持 1-不支持
+    "mediaframe":"0"     //帧率
+    }
+    …… // 最多3种
+]
+
+"mt":    //终端列表
+[
+    {
+
+    "recall":"0",  // 是否追呼  1-追呼，0-不追呼默认为0
+    "protocol":"0" // 0 – H323呼叫，1-SIP呼叫
+    "CallMode":"0" //呼叫终端方式: 0手动呼叫 1呼叫一次 2定时呼叫未与会终端
+    "bNotInvited":"0" //该终端不是被邀请的,而是主动加入的
+    "AddMtMode":"0"  //1: 终端是被MCS邀请的 2: 终端是被主席邀请的
+    "DisconnetReason":"0"
+    "MTCapSpecByMCS":"0"
+    "OnLineTime":""  //time_t类型的字符串
+    "OffLineTime":"" //
+    },
+],
+
+"doublevideomt":       // 双流终端
+[
+    {"mtidentify": {  //见4.1 (1)  }}
+]
+
+"MtSelectStatus":
+{
+    "IsSelByMcsDrag":"1
+}
+

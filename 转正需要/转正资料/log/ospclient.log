@@ -1,0 +1,1841 @@
+0
+************* file log begin ************
+Current time: Wed Dec 30 08:50:19 2015
+
+[Dec 30 08:50:19] Osp: connecting to 192.168.202.130@6682, please wait...
+0
+************* file log begin ************
+Current time: Wed Dec 30 09:30:46 2015
+
+[Dec 30 09:30:46] Osp: connecting to 192.168.202.130@6682, please wait...
+[Dec 30 09:30:46] Osp: connect to 192.168.202.130@6682 OK, the nodeid = 1!
+[Dec 30 09:30:46] Osp: connect to 192.168.202.130@6682 OK, the nodeid = 1!
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:51] noticeUi: 1001
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:52] noticeUi: 1002
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1003
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:53] noticeUi: 1004
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] noticeUi: 1005
+[Dec 30 09:31:54] 进入暂停状态[Dec 30 09:31:54] 忽略消息, event: 1003, 当前状态: 4
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:57] noticeUi: 1006
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1007
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:58] noticeUi: 1008
+[Dec 30 09:31:59] 进入暂停状态[Dec 30 09:31:59] 忽略消息, event: 1003, 当前状态: 4
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+[Dec 30 09:32:02] noticeUi: 1009
+0
+************* file log begin ************
+Current time: Wed Dec 30 16:46:44 2015
+
+[Dec 30 16:46:44] Osp: connecting to 192.168.202.130@6682, please wait...
+0
+************* file log begin ************
+Current time: Wed Dec 30 16:46:48 2015
+
+[Dec 30 16:46:48] Osp: initial success!
+[Dec 30 16:46:48] Osp: connecting to 192.168.202.130@6682, please wait...
+0
+************* file log begin ************
+Current time: Wed Dec 30 18:50:25 2015
+
+[Dec 30 18:50:25] Osp: connecting to 192.168.202.130@6682, please wait...
+0
+************* file log begin ************
+Current time: Wed Dec 30 18:50:49 2015
+
+[Dec 30 18:50:49] Osp: connecting to 192.168.202.130@6682, please wait...
+0
+************* file log begin ************
+Current time: Wed Dec 30 18:51:03 2015
+
+[Dec 30 18:51:03] Osp: connecting to 192.168.202.130@6682, please wait...
+[Dec 30 18:51:24] 
+Osp: OspConnectTcpNode() Socket Error 10060 !
+0
+************* file log begin ************
+Current time: Wed Dec 30 18:52:31 2015
+
+[Dec 30 18:52:31] Osp: initial success!
+[Dec 30 18:52:31] Osp: connecting to 192.168.202.130@6682, please wait...
+0
+************* file log begin ************
+Current time: Wed Dec 30 18:52:55 2015
+
+[Dec 30 18:52:55] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 30 18:52:55] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 30 18:52:55] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:32] noticeUi: 1001
+[Dec 30 18:54:33] noticeUi: 1001
+[Dec 30 18:54:33] noticeUi: 1001
+[Dec 30 18:54:33] noticeUi: 1001
+[Dec 30 18:54:33] noticeUi: 1001
+[Dec 30 18:54:33] noticeUi: 1001
+[Dec 30 18:54:33] noticeUi: 1001
+[Dec 30 18:54:33] noticeUi: 1001
+[Dec 30 18:54:33] noticeUi: 1001
+[Dec 30 18:54:33] noticeUi: 1001
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:36] noticeUi: 1002
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:40] noticeUi: 1003
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:43] noticeUi: 1004
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:46] noticeUi: 1005
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:49] noticeUi: 1006
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:53] noticeUi: 1007
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:55] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:56] noticeUi: 1008
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:54:59] noticeUi: 1009
+[Dec 30 18:55:00] noticeUi: 1009
+[Dec 30 18:55:00] noticeUi: 1009
+[Dec 30 18:55:00] noticeUi: 1009
+[Dec 30 18:55:00] noticeUi: 1009
+[Dec 30 18:55:00] noticeUi: 1009
+[Dec 30 18:55:00] noticeUi: 1009
+[Dec 30 18:55:00] noticeUi: 1009
+[Dec 30 18:55:00] noticeUi: 1009
+[Dec 30 18:55:00] noticeUi: 1009
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:45] noticeUi: 1001
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:46] noticeUi: 1002
+[Dec 30 18:55:47] 进入暂停状态[Dec 30 18:55:47] 忽略消息, event: 1003, 当前状态: 4
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:02] noticeUi: 1003
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:04] noticeUi: 1004
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:05] noticeUi: 1005
+[Dec 30 18:56:06] 进入暂停状态[Dec 30 18:56:06] 忽略消息, event: 1003, 当前状态: 4
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:08] noticeUi: 1006
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:09] noticeUi: 1007
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:10] noticeUi: 1008
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+[Dec 30 18:56:11] noticeUi: 1009
+0
+************* file log begin ************
+Current time: Wed Dec 30 19:43:39 2015
+
+[Dec 30 19:43:39] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 30 19:43:39] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 30 19:43:39] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+0
+************* file log begin ************
+Current time: Wed Dec 30 19:44:17 2015
+
+[Dec 30 19:44:17] Osp: initial success!
+[Dec 30 19:44:17] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 30 19:44:17] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 30 19:44:17] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:42] noticeUi: 1001
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:43] noticeUi: 1002
+[Dec 30 19:44:44] 进入暂停状态[Dec 30 19:44:44] 忽略消息, event: 1003, 当前状态: 4
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:20] noticeUi: 1003
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:21] noticeUi: 1004
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:22] noticeUi: 1005
+[Dec 30 19:45:23] 进入暂停状态[Dec 30 19:45:23] 忽略消息, event: 1003, 当前状态: 4
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:34] noticeUi: 1006
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] noticeUi: 1007
+[Dec 30 19:45:35] 进入暂停状态[Dec 30 19:45:35] 忽略消息, event: 1003, 当前状态: 4
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:44] noticeUi: 1008
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:45:45] noticeUi: 1009
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:30] noticeUi: 1001
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:33] noticeUi: 1002
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:36] noticeUi: 1003
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:38] noticeUi: 1004
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:41] noticeUi: 1005
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:43] noticeUi: 1006
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:46] noticeUi: 1007
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:49] noticeUi: 1008
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+[Dec 30 19:46:51] noticeUi: 1009
+0
+************* file log begin ************
+Current time: Wed Dec 30 19:47:20 2015
+
+[Dec 30 19:47:20] Osp: initial success!
+[Dec 30 19:47:20] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 30 19:47:20] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 30 19:47:20] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+0
+************* file log begin ************
+Current time: Thu Dec 31 08:34:21 2015
+
+[Dec 31 08:34:21] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 08:34:21] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 08:34:21] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+0
+************* file log begin ************
+Current time: Thu Dec 31 08:34:41 2015
+
+[Dec 31 08:34:41] Osp: initial success!
+[Dec 31 08:34:41] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 08:34:41] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 08:34:41] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+0
+************* file log begin ************
+Current time: Thu Dec 31 08:34:59 2015
+
+[Dec 31 08:34:59] Osp: initial success!
+[Dec 31 08:34:59] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 08:34:59] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 08:34:59] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+0
+************* file log begin ************
+Current time: Thu Dec 31 08:35:17 2015
+
+[Dec 31 08:35:17] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 08:35:17] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 08:35:17] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 08:36:38] 进入暂停状态[Dec 31 08:36:38] 忽略消息, event: 1003, 当前状态: 4
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:53] noticeUi: 1001
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:54] noticeUi: 1002
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:55] noticeUi: 1003
+[Dec 31 08:36:56] noticeUi: 1004
+[Dec 31 08:36:56] noticeUi: 1004
+[Dec 31 08:36:56] noticeUi: 1004
+[Dec 31 08:36:56] noticeUi: 1004
+[Dec 31 08:36:57] noticeUi: 1004
+[Dec 31 08:36:57] noticeUi: 1004
+[Dec 31 08:36:57] noticeUi: 1004
+[Dec 31 08:36:57] noticeUi: 1004
+[Dec 31 08:36:57] noticeUi: 1004
+[Dec 31 08:36:57] noticeUi: 1004
+[Dec 31 08:36:57] noticeUi: 1004
+[Dec 31 08:36:57] noticeUi: 1004
+[Dec 31 08:36:57] noticeUi: 1004
+[Dec 31 08:36:57] noticeUi: 1004
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:58] noticeUi: 1005
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] noticeUi: 1006
+[Dec 31 08:36:59] 进入暂停状态[Dec 31 08:36:59] 忽略消息, event: 1003, 当前状态: 4
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:01] noticeUi: 1007
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:02] noticeUi: 1008
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+[Dec 31 08:37:03] noticeUi: 1009
+0
+************* file log begin ************
+Current time: Thu Dec 31 08:37:30 2015
+
+[Dec 31 08:37:30] Osp: initial success!
+[Dec 31 08:37:30] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 08:37:30] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 08:37:30] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+0
+************* file log begin ************
+Current time: Thu Dec 31 10:22:22 2015
+
+[Dec 31 10:22:22] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:22:23] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 10:22:26] Osp: connecting to 172.16.186.32@6682, please wait...
+0
+************* file log begin ************
+Current time: Thu Dec 31 10:22:39 2015
+
+[Dec 31 10:22:39] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:22:40] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+0
+************* file log begin ************
+Current time: Thu Dec 31 10:22:51 2015
+
+[Dec 31 10:22:51] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:22:52] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+0
+************* file log begin ************
+Current time: Thu Dec 31 10:23:04 2015
+
+[Dec 31 10:23:04] Osp: initial success!
+[Dec 31 10:23:04] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:23:05] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 10:23:08] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:23:09] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 10:23:12] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:23:13] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 10:23:16] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:23:17] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 10:23:20] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:23:21] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 10:23:21] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 10:23:33] [Osp]sock receive error, errno 10054
+[Dec 31 10:23:33] Osp: node 1 (172.16.186.32) recv msg fail, will be deleted. SockErr=0
+[Dec 31 10:23:36] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:23:37] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 10:23:40] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:23:41] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 10:23:44] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:23:44] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 2!
+[Dec 31 10:23:44] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 2!
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:41] noticeUi: 1001
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:42] noticeUi: 1002
+[Dec 31 10:24:43] 进入暂停状态[Dec 31 10:24:43] 忽略消息, event: 1003, 当前状态: 4
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:57] noticeUi: 1003
+[Dec 31 10:24:58] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:24:59] noticeUi: 1004
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:00] noticeUi: 1005
+[Dec 31 10:25:01] 进入暂停状态[Dec 31 10:25:01] 忽略消息, event: 1003, 当前状态: 4
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:02] noticeUi: 1006
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:03] noticeUi: 1007
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:04] noticeUi: 1008
+[Dec 31 10:25:05] noticeUi: 1008
+[Dec 31 10:25:05] noticeUi: 1008
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+[Dec 31 10:25:06] noticeUi: 1009
+0
+************* file log begin ************
+Current time: Thu Dec 31 10:25:41 2015
+
+[Dec 31 10:25:41] Osp: initial success!
+[Dec 31 10:25:41] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 10:25:41] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 10:25:41] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+0
+************* file log begin ************
+Current time: Thu Dec 31 13:44:46 2015
+
+[Dec 31 13:44:46] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 13:44:47] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+0
+************* file log begin ************
+Current time: Thu Dec 31 13:44:52 2015
+
+[Dec 31 13:44:52] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 13:44:53] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 13:44:56] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 13:44:57] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 13:45:00] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 13:45:01] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 13:45:04] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 13:45:05] 
+Osp: OspConnectTcpNode() Socket Error 10061 !
+[Dec 31 13:45:08] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 13:45:08] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 13:45:08] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:45:59] noticeUi: 1001
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] noticeUi: 1002
+[Dec 31 13:46:00] 进入暂停状态[Dec 31 13:46:00] 忽略消息, event: 1003, 当前状态: 4
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:18] noticeUi: 1003
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:19] noticeUi: 1004
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:21] noticeUi: 1005
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:22] noticeUi: 1006
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:23] noticeUi: 1007
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:25] noticeUi: 1008
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+[Dec 31 13:46:26] noticeUi: 1009
+0
+************* file log begin ************
+Current time: Thu Dec 31 13:46:46 2015
+
+[Dec 31 13:46:46] Osp: connecting to 172.16.186.32@6682, please wait...
+[Dec 31 13:46:46] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
+[Dec 31 13:46:46] Osp: connect to 172.16.186.32@6682 OK, the nodeid = 1!
