@@ -1,0 +1,127 @@
+1. 终端获取预约会议列表
+{
+  "type" :　"NPPCLIENT_CM_GETBOOKCONFLIST_REQ",
+  "mtNO" :  "", //终端E164号
+  "moid" :  "", //终端所在用户域MOID
+}
+{
+  "type" :　"CM_NPPCLIENT_GETBOOKCONFLIST_ACK",
+  "bookconflist" :
+  [
+    {
+       "confname" :　"",
+ 	   "confE164" : "",
+       "mtnum" :　"",
+       "openmode" : "",
+       "mediatype":"",
+	   "mediabitrate":"",   
+	   "mediares":"",
+       "publicconf" : "",
+       "psw" : "",
+       "starttime" : ""
+    },
+    ...
+  ]
+}
+{
+  "type" :　"CM_NPPCLIENT_GETBOOKCONFlIST_NACK",
+  "mtNO" : "",
+  "errcode": ""
+}
+
+2. 终端获取预约会议详情
+{
+  "type" :　"NPPCLIENT_CM_GETBOOKCONFDETAIL_REQ",
+  "mtNO" : "",  //终端E164号
+  "confE164" : "", //公共模板E164号
+}
+
+{
+  "type" :　"CM_NPPCLIENT_GETBOOKCONFDETAIL_ACK",
+  "guid" : "",
+  "moid" : "",
+  "domainname" : "",
+  "confE164" : "",
+  "confname" : "",
+  "mediatype":"",
+  "mediabitrate":"",   
+  "mediares":"",
+  "openmode" : "",
+  "publicconf" : "",
+  "dualmode" : "",
+  "nodisturb" : "",
+  "maxjoinedmt" : "",
+  "mixmode" : "",
+  "psw" : "",
+  "starttime" : "",
+  "endtime" : "",
+  "creatorname" : "",
+}
+{
+  "type" :　"CM_NPPCLIENT_GETBOOKCONFDETAIL_NACK",
+  "confE164" : "",
+  "mtNO" : "",
+  "errcode": ""
+}
+3. 终端直接创会
+{
+  "type" : "NPPCLIENT_CM_CREATECONF_REQ",
+  "mtNO" : "" //终端E164号
+  "createbymt" : "1" //用于结会时报话单,会管需在CM_MAU_CREATECONF_REQ中带给CSS
+  "...." //与CM_MAU_CREATECONF_REQ消息格式相同(creatormoid由会管填入)
+}
+
+{
+  "type" :　"CM_NPPCLIENT_CREATECONF_ACK",
+  "mtNO" : "",
+  "confE164" : "",
+}
+{
+  "type" :　"CM_NPPCLIENT_CREATECONF_NACK",
+  "mtNO" : "",
+  "errcode": "",
+}
+
+4. 终端级联预分配e164号个人模板或固定虚拟会议室
+{
+  "type"："NPPCLIENT_CM_CASCADECONF_REQ",
+  "mtNO" : "",   //上级会议E164号或终端E164号
+  "creatorname" : "",   //上级会议名或终端名，外厂商情况为空
+  "confE164" : "", //要创建的个人模板或固定虚拟会议室E164号
+  "createbymt" : "1" //用于结会时报话单,会管需在CM_MAU_CREATECONF_REQ中带给CSS
+}
+{
+  "type" :　"CM_NPPCLIENT_CASCADECONF_ACK",
+  "confE164" : "",
+}
+{
+  "type" :　"CM_NPPCLIENT_CASCADECONF_NACK",
+  "errcode": "",
+  "confE164" : ""
+}
+
+5. 终端提前召开预约会议
+{
+  "type"："NPPCLIENT_CM_AHEADBOOKCONF_REQ",
+  "mtNO" : "",
+  "confE164" : "",
+  "createbymt" : "1" //用于结会时报话单,会管需在CM_MAU_CREATECONF_REQ中带给CSS  
+}
+{
+  "type" :　"CM_NPPCLIENT_AHEADBOOKCONF_ACK",
+  "confE164" : ""
+}
+{
+  "type" :　"CM_NPPCLIENT_AHEADBOOKCONF_NACK",
+  "confE164" : "",
+  "errcode": ""
+}
+
+6. 延长会议通知
+{
+    "type": "MAU_CM_DELAYCONF_NTF",
+    "moid" : "", //用户域MOID
+    "confE164": "0002433",
+    "delay": "30" //分钟
+}
+

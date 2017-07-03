@@ -1,0 +1,118 @@
+{
+    "isportconf": "1",
+    "preoccupy": "0",
+    "calltimes": "0",
+    "creatormobile": "",
+    "creatorname": "admin",
+    "autorecattrb": {
+        "autorec": "0",
+        "isanonymous": "0",
+        "isrecdstream": "1",
+        "publishmode": "0",
+        "isrecmainvide": "1",
+        "recmode": "0",
+        "vrsalias": null
+    },
+    "doublespeed": "",
+    "ip": "",
+    "creatoraccounttype": "1",
+    "creatortelephone": "",
+    "videoprior": "0",
+    "smarterrorelimination": "",
+    "secvideoformat": [],
+    "maxjoinedmt": "8",
+    "dcastconf": {
+        "dcast": "0",
+        "dcastip": "",
+        "dcastport": ""
+    },
+    "allmute": "0",
+    "speakeraudio": "",
+    "type": "CM_MAU_ADDBOOKCONF_REQ",
+    "onereforming": "0",
+    "mixmode": "",
+    "encryptkey": "",
+    "pollmodule": "0",
+    "speakeralias": "",
+    "confinfo": [
+        {
+            "confE164": "7773139",
+            "endtime": "2017-05-08 15:30:00",
+            "meetingID": "8859",
+            "starttime": "2017-05-08 11:30:00"
+        }
+    ],
+    "callmode": "2",
+    "callinterval": "20",
+    "secmediabitrate": "",
+    "enckeymanual": "0",
+    "vacinterval": "",
+    "speakersrc": "",
+    "audioformat": [],
+    "dualmode": "1",
+    "hdumodule": "0",
+    "pollparam": null,
+    "rentalmode": "1",
+    "confname": "admin\u9428\u52ea\u7d30\u7481\udcae",
+    "autoclose": "1",
+    "openmode": "1",
+    "encryptmode": "0",
+    "vmpmodule": "1",
+    "doublepercent": "",
+    "mt": [
+        {
+            "mtNO": "",
+            "mttype": "1",
+            "recall": "0",
+            "protocol": ""
+        }
+    ],
+    "cascadeconf": {
+        "cascademode": "1",
+        "isspy": "0",
+        "isupload": "1",
+        "spybandwidth": "0"
+    },
+    "chairmanalias": "",
+    "encryptauth": "0",
+    "satconf": {
+        "sat": "0",
+        "satip": "",
+        "satspynum": "",
+        "satport": ""
+    },
+    "hduparam": [],
+    "psw": "",
+    "creatormoid": "cad86d99-be8d-451e-a753-adfac5f0583c",
+    "duration": "240",
+    "mixmodule": "1",
+    "mixparam": {
+        "mixmember": [],
+        "mixmode": "1",
+        "vacinterval": ""
+    },
+    "moid": "gnqrwm7s3sxafnfeikmcbqgx",
+    "nodisturb": "0",
+    "publicconf": "0",
+    "smartpacketloss": "",
+    "videoformat": [
+        {
+            "mediabitrate": "1024",
+            "mediaframe": "30",
+            "mediah264": "1",
+            "mediares": "32",
+            "mediatype": "106"
+        }
+    ],
+    "vipmt": [],
+    "vmpparam": {
+        "mode": "2",
+        "vmpmembers": [],
+        "vmprim": "1",
+        "vmpstyle": "",
+        "vmpaddalias": "1",
+        "vmpbrdst": "1",
+        "voicehint": "1"
+    },
+    "hasxmpu": "1"
+}
